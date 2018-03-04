@@ -3,10 +3,7 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+Pixel Art Maker Project is a part of the Udacity Front End Nanodegree Program.
+The project aims at building an awesome grid where a user can select and color various cells of the grid.
+Size of the grid can be selected and each cell can have different color.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
